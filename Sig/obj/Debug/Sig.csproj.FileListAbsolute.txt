@@ -1,0 +1,6 @@
+c:\users\bogdan\documents\visual studio 2013\Projects\Sig\Sig\bin\Debug\Sig.exe
+c:\users\bogdan\documents\visual studio 2013\Projects\Sig\Sig\bin\Debug\Sig.pdb
+c:\users\bogdan\documents\visual studio 2013\Projects\Sig\Sig\bin\Debug\NAudio.dll
+c:\users\bogdan\documents\visual studio 2013\Projects\Sig\Sig\obj\Debug\Sig.csprojResolveAssemblyReference.cache
+c:\users\bogdan\documents\visual studio 2013\Projects\Sig\Sig\obj\Debug\Sig.exe
+c:\users\bogdan\documents\visual studio 2013\Projects\Sig\Sig\obj\Debug\Sig.pdb
