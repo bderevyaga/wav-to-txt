@@ -18,4 +18,4 @@ string path = @"D:\\5.txt";
 
 Можна порівняти роботу програми вписавши дані які ми отримали в Excel з роботою програми Audacity:
 
-![alt text](https://github.com/TheSpiritOfTheInternet/wavtotxt/blob/master/img.PNG?raw=true "Результат роботи програми.")
+![alt text](https://github.com/bderevyaga/Wav-to-txt/blob/master/img.PNG?raw=true "Результат роботи програми.")
